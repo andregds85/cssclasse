@@ -1,0 +1,58 @@
+.cabecalho{
+    padding-top: 10%;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+}    
+.conteudo{
+    padding: 10%;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+.rodape{
+    padding: 1%;
+    color: white;
+    font-size: 30px;
+    background-color: green;
+    text-align: center;
+}
+
+.produto{
+    background-image: url("fundo.jpeg");
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-size: 2000px 600px;
+    color:blue;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.contato{
+    background-image: url("contato.jpg");
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-size: 2000px 600px;
+    color: white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+
+ul{
+}
+li{
+display: inline;
+}
+a{
+color:white;
+}
+
